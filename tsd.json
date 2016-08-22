@@ -1,0 +1,36 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "jasmine/jasmine.d.ts": {
+      "commit": "2aa973a605d0fc7ae4ea5c32653331a819e81f71"
+    },
+    "core-js/core-js.d.ts": {
+      "commit": "2aa973a605d0fc7ae4ea5c32653331a819e81f71"
+    },
+    "angular-protractor/angular-protractor.d.ts": {
+      "commit": "2aa973a605d0fc7ae4ea5c32653331a819e81f71"
+    },
+    "selenium-webdriver/selenium-webdriver.d.ts": {
+      "commit": "2aa973a605d0fc7ae4ea5c32653331a819e81f71"
+    },
+    "node/node.d.ts": {
+      "commit": "2aa973a605d0fc7ae4ea5c32653331a819e81f71"
+    },
+    "source-map/source-map.d.ts": {
+      "commit": "2aa973a605d0fc7ae4ea5c32653331a819e81f71"
+    },
+    "uglify-js/uglify-js.d.ts": {
+      "commit": "2aa973a605d0fc7ae4ea5c32653331a819e81f71"
+    },
+    "webpack/webpack.d.ts": {
+      "commit": "2aa973a605d0fc7ae4ea5c32653331a819e81f71"
+    },
+    "hammerjs/hammerjs.d.ts": {
+      "commit": "2aa973a605d0fc7ae4ea5c32653331a819e81f71"
+    }
+  }
+}

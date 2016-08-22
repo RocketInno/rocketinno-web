@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'OpenSans-Regular';
+    src: url('./OpenSans-Regular.eot');
+    src: url('./OpenSans-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./OpenSans-Regular.woff') format('woff'),
+         url('./OpenSans-Regular.ttf') format('truetype'),
+ 		 url("http://dev.bowdenweb.com/a/fonts/sans-serif/open-sans/open-sans-regular.svg#open_sansregular") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'OpenSans-ExtraBold';
+    src: url('./OpenSans-ExtraBold.eot');
+    src: url('./OpenSans-ExtraBold.eot?#iefix') format('embedded-opentype'),
+         url('./OpenSans-ExtraBold.woff') format('woff'),
+         url('./OpenSans-ExtraBold.ttf') format('truetype'),
+         url('http://dev.bowdenweb.com/a/fonts/sans-serif/open-sans/extrabold/open-sans-extrabold.svg#open_sans_extraboldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
