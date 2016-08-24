@@ -1,0 +1,11 @@
+<header class="header">
+	<div class="header-mobile row middle-xs between-xs">
+		<div class="logo-container row middle-xs">
+			<img class="logo" src="/assets/img/rocket-logo.png" alt="logo">
+			<h2>RocketInno</h2>
+		</div>
+		<i class="btn-nav icon-rocket-hamburger"
+			(click)="toggle()"></i>
+	</div>
+	<rocket-navigation class="header-menu-nav" [showMenu]="showMenu"></rocket-navigation>
+</header>

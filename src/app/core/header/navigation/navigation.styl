@@ -1,0 +1,44 @@
+.header-menu-nav {
+	background-color white
+}
+
+.header-menu-list{
+	li {
+		padding: 1.5rem
+		a{
+			text-decoration none
+			color black
+			font-size 1.2em
+		}
+	}
+	transition: height .2s ease;
+	&--disappear{
+	height 0
+	overflow: hidden;
+	}
+	&--show{
+		height 230px
+		background-color white
+		display block
+		border-top: 1px solid grey;
+	}
+}
+
+
+
+@media (min-width:768px)
+
+	.header-menu-list{
+		height 80px
+		display flex
+		flex-direction row
+		flex-wrap wrap
+		justify-content space-around
+		align-items center
+		li {
+			height 100%
+			padding 0
+			display flex
+			align-items: center;
+		}
+	}
